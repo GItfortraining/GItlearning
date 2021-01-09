@@ -1,4 +1,4 @@
 
 
 #!/bin/sh
-echo "Hello world -poll SCm"
+echo "Hello world -webhook poll  SCm"
